@@ -29,6 +29,11 @@
 #define MAIN_H
 
 #define MAX_BUFFER 5120
+
+/**
+* proto change
+*/
+
 #define HELLO_MESSAGE "\r\nWelcome!\r\nAwa driver 9."
 
 #include "calibration.h"
